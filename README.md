@@ -41,9 +41,7 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 video demo
 https://drive.google.com/file/d/13o6bdH-ooTqCYwKaFEayBwNPPrxfB8Lu/view?usp=sharing
 
-![Logo](./assets/badges/badge-1.png)
-
-
+![Logo](./assets/logo.png)
 ## Screenshots
 
 ![App Screenshot](https://drive.google.com/file/d/1ZH2pPSHq43t11bptszmwkxP5lQb7e2sb/view?usp=sharing)
