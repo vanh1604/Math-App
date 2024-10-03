@@ -41,7 +41,7 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 video demo
 https://drive.google.com/file/d/13o6bdH-ooTqCYwKaFEayBwNPPrxfB8Lu/view?usp=sharing
 
-![Logo](https://drive.google.com/file/d/1ZH2pPSHq43t11bptszmwkxP5lQb7e2sb/view?usp=sharing)
+![Logo](D:\Math-App\assets\adaptive-icon.png)
 
 
 ## Screenshots
